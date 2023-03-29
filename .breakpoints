@@ -1,0 +1,34 @@
+{
+  "files": {
+    "Board.java": [
+      {
+        "id": "bcef018d-651d-4358-81cc-bafc1630136c",
+        "line": 9,
+        "version": 8726,
+        "index": 265
+      },
+      {
+        "id": "71faa0b5-f6dc-48ae-acac-b8be8ab82678",
+        "line": 12,
+        "version": 8726,
+        "index": 328
+      }
+    ],
+    "Main.java": [
+      {
+        "id": "92110cce-b240-4b9e-b99e-308a923b543c",
+        "line": 9,
+        "version": 257,
+        "index": 232
+      }
+    ],
+    "Player.java": [
+      {
+        "id": "6b5be0ca-89a7-4416-87bf-cecce167cb58",
+        "line": 90,
+        "version": 6694,
+        "index": 2778
+      }
+    ]
+  }
+}
